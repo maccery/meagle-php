@@ -19,6 +19,7 @@
 ### 1) Dependencies
 ```sh
 composer install
+npm install
 ```
 
 Then, for production:
@@ -34,14 +35,8 @@ npm run-script dev
 You'll need a MySQL database for the application to work.
 
 ### 3) Environmental variables
-You'll then need to set the following environment variables:
+You'll then need to update the environment variables in the  ``/.env`` that should have been created.
 ```
-APP_ENV=
-APP_KEY=
-APP_DEBUG=
-APP_LOG_LEVEL=
-APP_URL=
-APP_NAME=
 DB_CONNECTION=
 DB_HOST=
 DB_PORT=
@@ -49,6 +44,7 @@ DB_DATABASE=
 DB_USERNAME=
 DB_PASSWORD=
 ```
+
 
 ### 4) Then run the migrations:
 ```
