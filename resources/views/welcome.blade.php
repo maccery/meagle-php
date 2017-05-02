@@ -35,7 +35,7 @@
     <div class="content-row-grey">
         <div class="container">
             <h2>We mean impartial</h2>
-            <p>We’re free and open-source. You can’t buy an advert on our website.
+            <p>We’re free and open-source. You cannot buy an advert on our website.
                 Our reviews are totally free from sponsorship and advertising.
             </p>
         </div>
